@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    >
+ 
+  <channel> 
+    <title>Test</title>
+    <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
+    <link>index.html</link>
+    <description>Test</description>
+    <lastBuildDate>Mon, 13 Nov 2023 22:29:25 +0000</lastBuildDate>
+    <language>en-US</language>
+    <sy:updatePeriod>
+    hourly  </sy:updatePeriod>
+    <sy:updateFrequency>
+    1 </sy:updateFrequency> 
+  
+<item>
+    <title>Test</title>
+    <link>index.html</link>
+    <pubDate>Mon, 13 Nov 2023 22:29:25 +0000</pubDate>
+    <category><![CDATA[SEO FAQ]]></category><guid  isPermaLink="false" >index.html?p=6552a34567048</guid>
+    <description><![CDATA[  <p><a class="y5adc2634de4472d827a41fa76802c684 x3f9550c96aba10261ea69f0287c86f10" href="https://www.aaastorage.com/">Test</a></p>     ]]></description>
+    <content:encoded><![CDATA[  <p><a class="y5adc2634de4472d827a41fa76802c684 x3f9550c96aba10261ea69f0287c86f10" href="https://www.aaastorage.com/">Test</a></p>     ]]></content:encoded>
+</item>
+</channel>
+            </rss>
